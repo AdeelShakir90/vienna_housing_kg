@@ -1,0 +1,5 @@
+The most expensive highly accessible district is Innere Stadt with an average price of 18300 EUR/m2 and an accessibility score of 3.
+The cheapest highly accessible district is Donaustadt with an average price of 5900 EUR/m2 and an accessibility score of 3.
+The average housing price for districts with accessibility score 1 is 6100.00 EUR/m2.
+The average housing price for districts with accessibility score 2 is 7737.50 EUR/m2.
+The average housing price for districts with accessibility score 3 is 9433.33 EUR/m2.

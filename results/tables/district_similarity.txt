@@ -1,0 +1,22 @@
+District Similarity Results
+===========================
+
+Simple vector representation: [normalized_avg_price_eur_m2, normalized_accessibility_score]
+Cosine similarity was used to compare district vectors.
+This is an embedding-style learning representation, not a deep learning model.
+
+Innere Stadt: Josefstadt (0.9850), Neubau (0.9745)
+Leopoldstadt: Penzing (0.9999), Margareten (0.9993)
+Landstrasse: Penzing (0.9996), Leopoldstadt (0.9990)
+Wieden: Hietzing (0.9973), Landstrasse (0.9958)
+Margareten: Leopoldstadt (0.9993), Penzing (0.9987)
+Mariahilf: Alsergrund (0.9997), Neubau (0.9990)
+Neubau: Mariahilf (0.9990), Josefstadt (0.9986)
+Josefstadt: Neubau (0.9986), Mariahilf (0.9952)
+Alsergrund: Mariahilf (0.9997), Neubau (0.9977)
+Favoriten: Donaustadt (1.0000), Simmering (0.9981)
+Simmering: Donaustadt (0.9986), Favoriten (0.9981)
+Meidling: Innere Stadt (0.7071), Josefstadt (0.5747)
+Hietzing: Wieden (0.9973), Alsergrund (0.9950)
+Penzing: Leopoldstadt (0.9999), Landstrasse (0.9996)
+Donaustadt: Favoriten (1.0000), Simmering (0.9986)

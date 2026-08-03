@@ -1,0 +1,67 @@
+Top 5 Most Expensive Districts
+
+Rank | District     | Avg Price EUR/m2
+-----+--------------+-----------------
+1    | Innere Stadt | 18300           
+2    | Josefstadt   | 9800            
+3    | Wieden       | 9500            
+4    | Neubau       | 9300            
+5    | Mariahilf    | 8900            
+
+
+Top 5 Cheapest Districts
+
+Rank | District   | Avg Price EUR/m2
+-----+------------+-----------------
+1    | Simmering  | 5200            
+2    | Favoriten  | 5600            
+3    | Donaustadt | 5900            
+4    | Meidling   | 6100            
+5    | Penzing    | 6500            
+
+
+Districts With the Most Transport Stations
+
+Rank | District     | Station Count
+-----+--------------+--------------
+1    | Innere Stadt | 3            
+2    | Leopoldstadt | 3            
+3    | Landstrasse  | 3            
+4    | Wieden       | 3            
+5    | Margareten   | 3            
+6    | Donaustadt   | 3            
+7    | Mariahilf    | 2            
+8    | Neubau       | 2            
+9    | Josefstadt   | 2            
+10   | Alsergrund   | 2            
+11   | Favoriten    | 2            
+12   | Simmering    | 2            
+13   | Hietzing     | 2            
+14   | Penzing      | 2            
+15   | Meidling     | 1            
+
+
+Accessibility Score Ranking
+
+Rank | District     | Accessibility Score
+-----+--------------+--------------------
+1    | Innere Stadt | 3                  
+2    | Leopoldstadt | 3                  
+3    | Landstrasse  | 3                  
+4    | Wieden       | 3                  
+5    | Margareten   | 3                  
+6    | Donaustadt   | 3                  
+7    | Mariahilf    | 2                  
+8    | Neubau       | 2                  
+9    | Josefstadt   | 2                  
+10   | Alsergrund   | 2                  
+11   | Favoriten    | 2                  
+12   | Simmering    | 2                  
+13   | Hietzing     | 2                  
+14   | Penzing      | 2                  
+15   | Meidling     | 1                  
+
+
+Most Accessible District
+
+Innere Stadt with 3 transport stations

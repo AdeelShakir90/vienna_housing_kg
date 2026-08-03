@@ -1,0 +1,36 @@
+station,district,transport_type
+Stephansplatz,Innere Stadt,U-Bahn
+Schwedenplatz,Innere Stadt,U-Bahn
+Schottentor,Innere Stadt,Tram
+Praterstern,Leopoldstadt,U-Bahn
+Messe-Prater,Leopoldstadt,U-Bahn
+Taborstrasse,Leopoldstadt,Tram
+Wien Mitte,Landstrasse,U-Bahn
+Rochusgasse,Landstrasse,U-Bahn
+Kardinal-Nagl-Platz,Landstrasse,Bus
+Karlsplatz,Wieden,U-Bahn
+Taubstummengasse,Wieden,U-Bahn
+Johann-Strauss-Gasse,Wieden,Tram
+Pilgramgasse,Margareten,U-Bahn
+Kettenbrueckengasse,Margareten,U-Bahn
+Margaretenguertel,Margareten,Tram
+Westbahnhof,Mariahilf,U-Bahn
+Zieglergasse,Mariahilf,U-Bahn
+Neubaugasse,Neubau,U-Bahn
+Burggasse-Stadthalle,Neubau,U-Bahn
+Josefstaedter Strasse,Josefstadt,U-Bahn
+Lange Gasse,Josefstadt,Tram
+Spitalgasse,Alsergrund,Tram
+Friedensbruecke,Alsergrund,U-Bahn
+Reumannplatz,Favoriten,U-Bahn
+Keplerplatz,Favoriten,U-Bahn
+Simmering,Simmering,U-Bahn
+Enkplatz,Simmering,U-Bahn
+Meidling Hauptstrasse,Meidling,U-Bahn
+Schoenbrunn,Hietzing,U-Bahn
+Hietzing,Hietzing,Tram
+Huetteldorf,Penzing,U-Bahn
+Kendlerstrasse,Penzing,U-Bahn
+Kagran,Donaustadt,U-Bahn
+Aspernstrasse,Donaustadt,U-Bahn
+Hardeggasse,Donaustadt,Bus

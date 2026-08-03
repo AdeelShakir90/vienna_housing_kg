@@ -1,0 +1,13 @@
+entity_type,attribute_or_relationship,description
+District,type,Node type representing a Vienna district in the housing price dataset.
+District,label,Readable district name used in outputs and visualizations.
+District,avg_price_eur_m2,Average housing price in euros per square meter for the district.
+District,accessibility_score,Derived score equal to the number of incoming LOCATED_IN edges from Station nodes.
+District,accessibility_category,Derived category assigned from accessibility_score: High, Medium, or Low.
+Station,type,Node type representing a public transport station or stop.
+Station,label,Readable station name used in outputs and visualizations.
+Station,transport_type,Type of transport represented by the station: U-Bahn, Tram, or Bus.
+AccessibilityCategory,type,Node type representing a derived accessibility group.
+AccessibilityCategory,label,Accessibility category value: High, Medium, or Low.
+LOCATED_IN,relationship,Edge from Station to District showing where a station is located.
+HAS_ACCESSIBILITY_CATEGORY,relationship,Edge from District to AccessibilityCategory showing the district's derived accessibility category.
