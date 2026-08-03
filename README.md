@@ -24,4 +24,4 @@ The project will use a simple Python-based workflow:
 
 
 
-This repository is currently only the initial project structure. Full project code will be added later.
+
